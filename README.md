@@ -5,4 +5,6 @@ This project Standalone Java Application for a institute based on Student regist
   * Java 8
   * MySQL
 
-# 
+# Architectural Design
+ * Layerad Architectur
+
